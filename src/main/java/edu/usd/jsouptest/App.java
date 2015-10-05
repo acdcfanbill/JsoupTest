@@ -76,7 +76,7 @@ public class App {
     }
     
     /**
-     * GetListOfTools takes a baseURL and a repos, then it goes through each
+     * GetListOfTools takes a repo link, then it goes through each
      *  that repo and gets a list of tools from it to return.
      * @param baseURL
      * @param repoList
